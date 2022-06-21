@@ -7,5 +7,5 @@ Example Data Science Portfolio
 
 ## Define what items from which brand should be order in order warrant fulfill customers demand.
 
-## Data resource
+#### Data resource
 [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store?resource=download)
